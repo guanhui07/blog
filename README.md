@@ -1,3 +1,3 @@
-# blog
+# note
 
-[blog_note](https://github.com/guanhui07/blog/issues)
+[个人博客](https://github.com/guanhui07/blog/issues)
