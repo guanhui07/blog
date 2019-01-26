@@ -36,4 +36,4 @@ openresty社区 https://groups.google.com/forum/#!forum/openresty
 豆瓣
 极客时间
 得到
-csdn等等 
+各类博客等等 
