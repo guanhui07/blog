@@ -5,7 +5,7 @@
 
 wordpress -> Octopress -> markdown 文本 -> github
 
-我关注技术的渠道
+我关注技术或学习的渠道 包括app  web 小程序
 
 laravel-china https://laravel-china.org/users/1670
 
@@ -30,6 +30,8 @@ segmentfault https://segmentfault.com/u/guanhui07
 Twitter  https://twitter.com/guanhui07
 
 简书 https://www.jianshu.com/u/e479b3bdeb65
+
+openresty社区 https://groups.google.com/forum/#!forum/openresty
 
 豆瓣
 极客时间
