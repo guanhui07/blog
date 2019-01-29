@@ -34,6 +34,15 @@ Twitter  https://twitter.com/guanhui07
 openresty社区 https://groups.google.com/forum/#!forum/openresty
 
 豆瓣
+
 极客时间
+
 得到
+
+微信
+微信读书
+
+
+喜马拉雅app
+
 各类博客等等 
