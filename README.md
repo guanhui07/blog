@@ -39,10 +39,12 @@ openresty社区 https://groups.google.com/forum/#!forum/openresty
 
 得到
 
-微信
 微信读书
 
 
 喜马拉雅app
 
 各类博客等等 
+
+
+多看书，网络获取知识都是靠积累。
