@@ -2,6 +2,7 @@
 
 [个人博客](https://guanhui07.github.io/blog/)
 
+about me https://about.me/yangminghui
 
 wordpress -> Octopress -> markdown 文本 -> github
 
