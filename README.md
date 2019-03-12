@@ -1,6 +1,6 @@
 # 记录
 
-[个人博客记录](https://guanhui07.github.io/blog/)
+[个人博客记录](https://github.com/guanhui07/blog/issues)
 
 [about me](https://about.me/yangminghui)
 
