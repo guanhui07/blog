@@ -53,7 +53,7 @@ python社区 https://learnku.com/python
 微信读书
 
 
-喜马拉雅app
+喜马拉雅app web https://www.ximalaya.com/
 
 各类博客  v2ex 知识星球等等 
 
