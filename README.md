@@ -42,6 +42,8 @@ ruby-china社区 https://ruby-china.org/
 
 python社区 https://learnku.com/python
 
+orchina http://orchina.org/
+
 图灵社区 http://www.ituring.com.cn/book
 
 豆瓣
