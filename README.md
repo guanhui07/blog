@@ -46,7 +46,7 @@ orchina http://orchina.org/
 
 图灵社区 http://www.ituring.com.cn/book
 
-豆瓣
+豆瓣  https://book.douban.com/
 
 极客时间
 
@@ -54,6 +54,7 @@ orchina http://orchina.org/
 
 微信读书
 
+瓦斯阅读 https://w.qnmlgb.tech/wx
 
 喜马拉雅app web https://www.ximalaya.com/
 
