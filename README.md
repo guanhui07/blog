@@ -16,7 +16,7 @@ github &博客  https://github.com/guanhui07
 
 开源中国  https://my.oschina.net/u/1417003
 
-gitChat
+gitChat  https://gitbook.cn/gitchat/ordered
 
 微信公众号
 
@@ -34,6 +34,15 @@ Twitter  https://twitter.com/guanhui07
 
 openresty社区 https://groups.google.com/forum/#!forum/openresty
 
+无码科技 https://readhub.cn/topics
+
+golang社区 https://studygolang.com/
+
+ruby-china社区 https://ruby-china.org/
+
+python社区 https://learnku.com/python
+
+
 豆瓣
 
 极客时间
@@ -45,7 +54,7 @@ openresty社区 https://groups.google.com/forum/#!forum/openresty
 
 喜马拉雅app
 
-各类博客等等 
+各类博客  v2ex 知识星球等等 
 
 
 多看书，网络获取知识都是靠积累。
