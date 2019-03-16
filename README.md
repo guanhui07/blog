@@ -58,6 +58,8 @@ orchina http://orchina.org/
 
 喜马拉雅app web https://www.ximalaya.com/
 
+技术周刊  https://github.com/ruanyf/weekly
+
 各类博客  v2ex 知识星球等等 
 
 
