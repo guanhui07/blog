@@ -50,6 +50,8 @@ orchina http://orchina.org/
 
 gitee https://gitee.com/guanhui07
 
+infoq https://infoq.cn/profile/1057668
+
 极客时间
 
 得到
