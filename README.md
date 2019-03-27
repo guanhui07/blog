@@ -52,6 +52,8 @@ gitee https://gitee.com/guanhui07
 
 infoq https://infoq.cn/profile/1057668
 
+推酷 https://www.tuicool.com/ah/20/
+
 极客时间
 
 得到
