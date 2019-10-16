@@ -1,3 +1,8 @@
+
+
+![](http://ww1.sinaimg.cn/large/7fa2dba2gy1g8052hcg3aj20yg0blq9k.jpg)
+
+
 # 记录
 
 [个人博客记录](https://guanhui07.github.io/blog/)
@@ -70,3 +75,73 @@ infoq https://infoq.cn/profile/1057668
 
 
 多看书，网络获取知识都是靠积累。
+
+
+
+
+### 通过js介绍自己
+```javascript
+(function(nick, createAt) {
+ 
+  const now = (new Date).getFullYear();
+ 
+  class Person {
+    constructor(params) {
+      Person.iterationHelper(params, (prop) => this[prop] = params[prop]);
+    }
+ 
+    set dreamCode(val) {
+      this.Dream = String.fromCharCode.apply(null, val);
+      delete this.dreamCode;
+    }
+ 
+    static iterationHelper(data, fn) {
+      Object.keys(data).forEach(fn);
+    }
+ 
+    static introduce(content) {
+      console.log(content);
+    }
+  }
+ 
+  const dreamCode = [
+    0x42,
+    0x65, 0x63,
+    0x6f, 0x6d, 0x65,
+    0x20, 0x61, 0x20, 0x72,
+    0x65, 0x73, 0x70, 0x65, 0x63,
+    0x74, 0x65, 0x64, 0x20, 0x70, 0x72,
+    0x6f, 0x67, 0x72, 0x61,
+    0x6d, 0x6d, 0x65, 0x72, 0x2c, 0x20,
+    0x63, 0x6f, 0x64, 0x65, 0x20,
+    0x74, 0x68, 0x65, 0x20,
+    0x77, 0x6f, 0x72,
+    0x6c, 0x64,
+    0x2e,
+  ];
+  const name = 'yang';
+  const sex = '男';
+  const age = now - createAt;
+  let tags = ['私有云', '工程工具', '后端', '数据'];
+  let hobby = ['篮球', '游泳'];
+ 
+  let me = new Person({name, sex, age, nick, dreamCode, tags, hobby});
+ 
+  with (Person) iterationHelper(me, (n) => introduce(`${n.replace(/^\w/, c => c.toUpperCase())}:\t${me[n]}`));
+ 
+})('guanhui07', 0x07c4);
+
+```
+
+
+
+
+```
+                             #               "     mmmm  mmmmmm
+  mmmm  m   m   mmm   m mm   # mm   m   m  mmm    m"  "m     #"
+ #" "#  #   #  "   #  #"  #  #"  #  #   #    #    #  m #    m"
+ #   #  #   #  m"""#  #   #  #   #  #   #    #    #    #   m"
+ "#m"#  "mm"#  "mm"#  #   #  #   #  "mm"#  mm#mm   #mm#   m"
+  m  #
+   ""
+```
