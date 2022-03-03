@@ -13,7 +13,7 @@ wordpress -> Octopress -> markdown 文本 -> github
 
 我关注技术或学习的渠道 包括app  web 小程序
 
-laravel-china https://laravel-china.org/users/1670
+laravel-china https://learnku.com/laravel
 
 github &博客  https://github.com/guanhui07
 
